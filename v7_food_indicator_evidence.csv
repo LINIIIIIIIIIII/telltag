@@ -1,0 +1,8 @@
+food,indicator,evidence_level,what_was_tested,source
+Salmon,Bromocresol purple + cresol red,Generic fish study not salmon validated,Fish freshness indicator with film barrier,https://pmc.ncbi.nlm.nih.gov/articles/PMC10177749/
+Salmon,Salmon multi-amine CDT probe,Direct salmon study not TellTag validated,Colorimetric fluorescent salmon freshness platform,https://www.sciencedirect.com/science/article/pii/S0003267025009195
+Salmon,Bromocresol purple alone,Related fish family not matching package,Nonselective response to volatile base markers,https://pmc.ncbi.nlm.nih.gov/articles/PMC10177749/
+Chicken,Bromocresol purple,Direct chicken study not TellTag validated,Indicator tested with chicken breast,https://pmc.ncbi.nlm.nih.gov/articles/PMC6049484/
+Chicken,Bromocresol purple + methyl red,Direct chicken study not TellTag validated,Dual indicator in chicken fillet packaging study,https://www.mdpi.com/2304-8158/11/21/3533
+Chicken,Plum anthocyanin cellulose,Direct chicken study not TellTag validated,Cellulose-based indicator for chicken at 30 C,https://pmc.ncbi.nlm.nih.gov/articles/PMC10994710/
+Beef,Anthocyanin betacyanin,Direct beef study not TellTag validated,Beef-fish film response in particular storage test,https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/

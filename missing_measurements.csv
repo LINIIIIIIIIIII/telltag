@@ -1,0 +1,11 @@
+parameter,status,why_it_is_missing,what_to_record
+Membrane permeability to target gas,UNKNOWN,The paper reports color response but not comparable mol-m-per-m2-s-Pa permeability,Measured target-gas permeability with film identity and conditions
+Indicator-matrix permeability,UNKNOWN,Depends on your exact matrix and gas,Measured gas transport at temperature and humidity
+Sorption capacity,UNKNOWN,Depends on gas partitioning in the actual sensing layer,Measured uptake versus gas partial pressure for actual film
+Buffering response,UNKNOWN,The current pH-vs-gas relationship is an empirical placeholder,Film pH response versus known measured gas exposure
+Apparent pKa in film,UNKNOWN,Published 6.3 is solution reference not actual film,Apparent pKa of dye incorporated in final matrix
+Observed color spectrum,UNKNOWN,Blended hex colours are not spectroscopy,Measured reflected spectrum or calibrated colorimetry over exposure
+Package-film gas permeability,UNKNOWN,If external sticker packaging may prevent detectable gas reaching sensor,Permeability for exact packaging and gas
+Headspace gas vs time,UNKNOWN,Current 30 ppm example is invented,Instrumental measured headspace concentration profile
+Temperature and humidity dependence,NOT MODELED,V1 transport is isothermal and ignores humidity response,Measurements across relevant storage conditions
+Food freshness correlation,NOT MODELED,Gas signal cannot by itself establish microbial food safety,Parallel standardized food-quality and microbiology data

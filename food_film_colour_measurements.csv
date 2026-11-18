@@ -1,0 +1,9 @@
+study_id,food,storage_C,storage_day,measured_delta_E,delta_E_sd,indicator,source_url,source_table
+FOOD_FILM_2025,Beef,4,3,17.43,0.99,Anthocyanin/betacyanin indicator (not TellTag),https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Table 2
+FOOD_FILM_2025,Beef,4,6,9.65,0.19,Anthocyanin/betacyanin indicator (not TellTag),https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Table 2
+FOOD_FILM_2025,Beef,4,9,15.0,0.1,Anthocyanin/betacyanin indicator (not TellTag),https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Table 2
+FOOD_FILM_2025,Beef,4,12,14.17,0.06,Anthocyanin/betacyanin indicator (not TellTag),https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Table 2
+FOOD_FILM_2025,Fish (species unspecified in study),4,3,22.47,0.98,Anthocyanin/betacyanin indicator (not TellTag),https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Table 3
+FOOD_FILM_2025,Fish (species unspecified in study),4,6,13.5,0.1,Anthocyanin/betacyanin indicator (not TellTag),https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Table 3
+FOOD_FILM_2025,Fish (species unspecified in study),4,9,17.57,0.49,Anthocyanin/betacyanin indicator (not TellTag),https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Table 3
+FOOD_FILM_2025,Fish (species unspecified in study),4,12,19.9,0.35,Anthocyanin/betacyanin indicator (not TellTag),https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Table 3

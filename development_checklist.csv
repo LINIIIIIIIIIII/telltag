@@ -1,0 +1,11 @@
+area,can_simulate_today,needed_evidence,next_software_step,readiness
+Visual construction,Illustrative layers and placement,Manufacturing design and materials,Connect actual dimensions and optical data,Illustration only
+Single gas transport,Yes simplified effective model,Gas-and-material permeability and measured headspace time series,Fit transport parameter with uncertainty,Uncalibrated
+Indicator chemistry,Approximate dye acid-base form,Actual matrix equilibrium and buffer response,Replace gas-to-pH proxy with calibrated chemical model,Uncalibrated
+Optical response,RGB blend only,Measured spectra under controlled illumination and repeatability,Calibrate spectral response and colour difference,Missing
+Meat deterioration,None,Independent quality endpoint measurements by food and package,Food-specific empirical model after data exists,Missing
+Microbial safety,None,Specific validated pathogen tests and regulatory expertise,Do not make general safety claims,Not supported
+Climate effects,None,Temperature and humidity response of actual films,Mechanistic or empirical function calibrated across conditions,Missing
+Multiple gases,None,Selectivity cross-response data for each species,Identifiable multicomponent uptake/response model,Missing
+Uncertainty,One-at-a-time sensitivity only,Measured parameter variation and held-out experiments,Prediction bands and error metrics,Limited
+Regulatory and food-contact,None,Migration and product intended-use assessment,Document provenance and design controls,Missing

@@ -1,0 +1,50 @@
+study_id,food,package,temperature_C,day,measurement,value,unit,sd,source_url,context
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,0,Total bacterial count,3.0,log CFU/g,,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; study-specific chilled beef, all samples one carcass"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,2,Total bacterial count,4.51,log CFU/g,,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; study-specific chilled beef, all samples one carcass"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,4,Total bacterial count,5.92,log CFU/g,,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; study-specific chilled beef, all samples one carcass"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,6,Total bacterial count,6.92,log CFU/g,,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; study-specific chilled beef, all samples one carcass"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,8,Total bacterial count,8.36,log CFU/g,,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; study-specific chilled beef, all samples one carcass"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,10,Total bacterial count,8.64,log CFU/g,,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; study-specific chilled beef, all samples one carcass"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,0,TVB-N,7.0,mg N/100 g,0.0,https://www.mdpi.com/2304-8158/14/23/4017,Table 3; TVB-N in meat; NOT headspace gas ppm
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,2,TVB-N,10.2,mg N/100 g,0.8,https://www.mdpi.com/2304-8158/14/23/4017,Table 3; TVB-N in meat; NOT headspace gas ppm
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,4,TVB-N,14.0,mg N/100 g,0.0,https://www.mdpi.com/2304-8158/14/23/4017,Table 3; TVB-N in meat; NOT headspace gas ppm
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,6,TVB-N,14.4,mg N/100 g,0.8,https://www.mdpi.com/2304-8158/14/23/4017,Table 3; TVB-N in meat; NOT headspace gas ppm
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,8,TVB-N,18.2,mg N/100 g,1.4,https://www.mdpi.com/2304-8158/14/23/4017,Table 3; TVB-N in meat; NOT headspace gas ppm
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,10,TVB-N,23.8,mg N/100 g,1.4,https://www.mdpi.com/2304-8158/14/23/4017,Table 3; TVB-N in meat; NOT headspace gas ppm
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,0,Meat pH,5.72,pH,0.02,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; pH of meat extract, NOT dye-film pH"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,2,Meat pH,5.86,pH,0.01,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; pH of meat extract, NOT dye-film pH"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,4,Meat pH,5.92,pH,0.01,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; pH of meat extract, NOT dye-film pH"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,6,Meat pH,5.96,pH,0.01,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; pH of meat extract, NOT dye-film pH"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,8,Meat pH,6.05,pH,0.17,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; pH of meat extract, NOT dye-film pH"
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,10,Meat pH,6.24,pH,0.08,https://www.mdpi.com/2304-8158/14/23/4017,"Table 3; pH of meat extract, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,0,TVB-N,10.65,mg N/100 g,0.21,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,1,TVB-N,11.25,mg N/100 g,0.21,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,2,TVB-N,11.95,mg N/100 g,0.13,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,3,TVB-N,12.4,mg N/100 g,0.16,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,4,TVB-N,13.6,mg N/100 g,0.18,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,5,TVB-N,14.4,mg N/100 g,0.18,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,7,TVB-N,15.8,mg N/100 g,0.16,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,9,TVB-N,17.55,mg N/100 g,0.21,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,13,TVB-N,20.8,mg N/100 g,0.16,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,15,TVB-N,23.2,mg N/100 g,0.16,https://www.mdpi.com/2304-8158/15/12/2162,Table 1; vacuum packaged; study sensory rejection at day 13. NOT a safe-storage recommendation.
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,0,Meat pH,6.15,pH,0.01,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,1,Meat pH,6.07,pH,0.02,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,2,Meat pH,6.04,pH,0.02,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,3,Meat pH,6.05,pH,0.02,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,4,Meat pH,6.01,pH,0.01,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,5,Meat pH,5.99,pH,0.01,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,7,Meat pH,5.8,pH,0.01,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,9,Meat pH,6.02,pH,0.02,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,13,Meat pH,6.11,pH,0.01,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+CHICKEN_2026,Chicken breast,Vacuum packaged,4,15,Meat pH,5.83,pH,0.02,https://www.mdpi.com/2304-8158/15/12/2162,"Table 1; meat pH, NOT dye-film pH"
+SALMON_2017,Salmon fillet,Study fish fillet,4,0,TVB-N,14.32,mg/100 g,,https://pmc.ncbi.nlm.nih.gov/articles/PMC5756197/,Published text supplies these two exact points; do not assume linear progression between them. Units reported as mg/100 g.
+SALMON_2017,Salmon fillet,Study fish fillet,4,10,TVB-N,45.99,mg/100 g,,https://pmc.ncbi.nlm.nih.gov/articles/PMC5756197/,Published text supplies these two exact points; do not assume linear progression between them. Units reported as mg/100 g.
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,2,Headspace dimethylamine (DMA),2.28,µg/kg,0.12,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,4,Headspace dimethylamine (DMA),2.35,µg/kg,0.18,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,6,Headspace dimethylamine (DMA),2.83,µg/kg,0.15,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,8,Headspace dimethylamine (DMA),4.87,µg/kg,0.27,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,10,Headspace dimethylamine (DMA),7.37,µg/kg,0.32,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,8,Headspace methylamine (MA),3.19,µg/kg,0.21,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,10,Headspace methylamine (MA),6.96,µg/kg,0.34,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,8,Headspace trimethylamine (TMA),2.03,µg/kg,0.14,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."
+BEEF_2025,Beef loin,Polypropylene tray; polyethylene film,4,10,Headspace trimethylamine (TMA),3.29,µg/kg,0.22,https://www.mdpi.com/2304-8158/14/23/4017,"Published headspace Table 4; 0-6 d MA/TMA not detected, not zero. μg/kg is NOT ppm(v)."

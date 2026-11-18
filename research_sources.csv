@@ -1,0 +1,11 @@
+topic,evidence_type,claim_scope,source_url,limitation
+Canadian fridge storage,Official guidance,"Recommendations at 4 C or colder, not measured spoilage time",https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-food-storage.html,No package-specific spoilage predictions
+Fish TVB-N categories,EU legal criteria,25/30/35 mg N per 100 g for specified fish groups with organoleptic concerns,https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019R0627,Not a gas ppm threshold or universal meat limit
+Fish marker timing,FAO technical document,TVB-N is often a later spoilage measure and varies by species,https://www.fao.org/4/v7180e/v7180e09.htm,Not all fish and products behave identically
+Food deterioration markers,Peer-reviewed review,No single universal spoilage-related volatile across meats,https://pmc.ncbi.nlm.nih.gov/articles/PMC11394942/,Requires specific food and packaging validation
+Fish colour indicator research,Peer-reviewed paper,Measured colour difference of other indicator membranes under different standards,https://doi.org/10.3390/foods12091801,Solution mg per L not gas ppm; not TellTag calibration
+Canadian packaging materials,Official guidance,Packaging chemical safety and material responsibilities,https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/packaging-materials.html,Independent review of intended product use needed
+Beef spoilage measured time series,Peer-reviewed 2025 experimental data,TBC TVB-N meat pH and individual amines in beef at 4C,https://www.mdpi.com/2304-8158/14/23/4017,Not TellTag; source paper uses specific beef and packaging; headspace amines in µg/kg
+Vacuum chicken measured time series,Peer-reviewed 2026 experimental data,TVB-N and pH across cold storage,https://www.mdpi.com/2304-8158/15/12/2162,Days of experimental storage must never be interpreted as safe consumer storage
+Salmon 4C endpoints,Peer-reviewed experiment 2017,Two TVB-N values reported in text,https://pmc.ncbi.nlm.nih.gov/articles/PMC5756197/,Intermediate values not directly reported as table here
+Beef and fish research film,Peer-reviewed 2025 experimental data,CIELAB delta E at refrigerated storage days,https://pmc.ncbi.nlm.nih.gov/articles/PMC12124793/,Different indicator film and ambiguous fish species; not TellTag performance
